@@ -1,3 +1,5 @@
+#first install the module by running "pip install pytube" in the terminal
+
 from tkinter import * 
 from tkinter import ttk
 from tkinter import filedialog
